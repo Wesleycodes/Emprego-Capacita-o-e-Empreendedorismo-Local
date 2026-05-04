@@ -25,3 +25,4 @@ Resolver a dificuldade de centralizar vagas de emprego e trilhas de aprendizado 
 
 ## Integrantes
 - Daniel Duarte(01847432)
+- Wesley Golçalves(01849581)
